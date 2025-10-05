@@ -134,3 +134,19 @@ Somente pacotes padrão do Unity + TextMesh Pro (já incluso no projeto). Nenhum
 2. Jogador pressiona Espaço -> pássaro sobe
 3. Tubos passam -> trigger central soma ponto
 4. Colisão -> Game Over -> jogador pode reiniciar
+
+---
+
+## Vídeos!
+
+
+
+https://github.com/user-attachments/assets/22301298-543c-456d-b3e0-4a89b7484dcc
+
+
+
+
+https://github.com/user-attachments/assets/a8042867-8397-4b8c-9ec9-4ce1f1e528aa
+
+
+
