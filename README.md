@@ -1,11 +1,4 @@
-# BirdGame (Clone estilo Flappy Bird)
-
-Projeto Unity (versão **2021.3.5f1**) criado como jogo simples de reflexo/arcade para demonstrar conceitos básicos de:
-
-- Física 2D (Rigidbody2D, colisões, triggers)
-- Spawning procedural de obstáculos
-- UI (pontuação e tela de Game Over)
-- Organização de scripts e uso de Tags / Layers
+# BirdGame 
 
 ---
 
@@ -134,6 +127,18 @@ Somente pacotes padrão do Unity + TextMesh Pro (já incluso no projeto). Nenhum
 2. Jogador pressiona Espaço -> pássaro sobe
 3. Tubos passam -> trigger central soma ponto
 4. Colisão -> Game Over -> jogador pode reiniciar
+
+---
+
+## Imagens
+
+<img width="936" height="523" alt="Captura de tela 2025-10-05 175106" src="https://github.com/user-attachments/assets/99b0ede4-814e-4c48-bddd-04b7205be174" />
+
+<img width="943" height="518" alt="Captura de tela 2025-10-05 175125" src="https://github.com/user-attachments/assets/635bc151-e484-45d1-bf72-3f2c99e784ec" />
+
+<img width="1413" height="787" alt="Captura de tela 2025-10-05 175134" src="https://github.com/user-attachments/assets/86e4f520-eebf-434c-95f2-62fc2c0e0f0e" />
+
+<img width="1413" height="787" alt="Captura de tela 2025-10-05 175143" src="https://github.com/user-attachments/assets/d6bee9a3-14cc-40ce-a37a-1ceb69b879d1" />
 
 ---
 
